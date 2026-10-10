@@ -1,0 +1,8 @@
+{
+  "name": "CleanCity – Garbage Pickup Complaint Tracker",
+  "description": "Smart municipal waste management and citizen garbage pickup complaint tracking platform with real-time status tracking, map visualization, and sanitation worker dispatch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
